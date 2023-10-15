@@ -41,7 +41,7 @@ id,outcome
 1274,euthanized
 1275,lived
 1276,euthanized
-1277,died
+1277,lived
 1278,euthanized
 1279,lived
 1280,lived
@@ -129,7 +129,7 @@ id,outcome
 1362,lived
 1363,euthanized
 1364,lived
-1365,lived
+1365,euthanized
 1366,lived
 1367,lived
 1368,died
@@ -137,11 +137,11 @@ id,outcome
 1370,lived
 1371,died
 1372,euthanized
-1373,died
+1373,lived
 1374,lived
 1375,died
 1376,died
-1377,lived
+1377,died
 1378,died
 1379,died
 1380,lived
@@ -150,7 +150,7 @@ id,outcome
 1383,died
 1384,euthanized
 1385,died
-1386,died
+1386,euthanized
 1387,lived
 1388,lived
 1389,died
@@ -184,7 +184,7 @@ id,outcome
 1417,lived
 1418,lived
 1419,died
-1420,lived
+1420,died
 1421,lived
 1422,euthanized
 1423,lived
@@ -194,7 +194,7 @@ id,outcome
 1427,lived
 1428,died
 1429,lived
-1430,died
+1430,lived
 1431,died
 1432,lived
 1433,died
@@ -247,7 +247,7 @@ id,outcome
 1480,lived
 1481,lived
 1482,died
-1483,lived
+1483,died
 1484,lived
 1485,died
 1486,lived
@@ -328,7 +328,7 @@ id,outcome
 1561,lived
 1562,lived
 1563,died
-1564,lived
+1564,died
 1565,lived
 1566,lived
 1567,lived
@@ -336,7 +336,7 @@ id,outcome
 1569,lived
 1570,died
 1571,died
-1572,died
+1572,lived
 1573,lived
 1574,lived
 1575,lived
@@ -426,7 +426,7 @@ id,outcome
 1659,died
 1660,died
 1661,lived
-1662,lived
+1662,euthanized
 1663,lived
 1664,lived
 1665,died
@@ -495,7 +495,7 @@ id,outcome
 1728,died
 1729,lived
 1730,died
-1731,died
+1731,lived
 1732,lived
 1733,died
 1734,lived
@@ -569,7 +569,7 @@ id,outcome
 1802,lived
 1803,died
 1804,died
-1805,died
+1805,euthanized
 1806,lived
 1807,euthanized
 1808,died
@@ -666,7 +666,7 @@ id,outcome
 1899,lived
 1900,lived
 1901,died
-1902,euthanized
+1902,died
 1903,died
 1904,euthanized
 1905,euthanized
@@ -695,7 +695,7 @@ id,outcome
 1928,lived
 1929,died
 1930,lived
-1931,euthanized
+1931,died
 1932,lived
 1933,died
 1934,died
@@ -706,13 +706,13 @@ id,outcome
 1939,lived
 1940,lived
 1941,died
-1942,died
+1942,lived
 1943,lived
 1944,lived
 1945,euthanized
 1946,died
 1947,died
-1948,died
+1948,euthanized
 1949,died
 1950,euthanized
 1951,died
@@ -728,7 +728,7 @@ id,outcome
 1961,died
 1962,lived
 1963,euthanized
-1964,died
+1964,lived
 1965,died
 1966,died
 1967,lived
@@ -738,7 +738,7 @@ id,outcome
 1971,lived
 1972,died
 1973,euthanized
-1974,lived
+1974,euthanized
 1975,died
 1976,lived
 1977,euthanized
@@ -753,7 +753,7 @@ id,outcome
 1986,lived
 1987,died
 1988,died
-1989,lived
+1989,died
 1990,lived
 1991,lived
 1992,lived
